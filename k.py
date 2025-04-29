@@ -73,5 +73,5 @@ if __name__ == "__main__":
 
 
 
-#gagamit kog github desktop
-#git add .
+#gagamit kog github desktop....
+print("pull")
